@@ -1,0 +1,116 @@
+[
+  {
+    "additionalData": {
+      "name": "etanol",
+      "mass": "46.042",
+      "radioactive": "false"
+    },
+    "id": 1,
+    "molecule": "CCO"
+  },
+  {
+    "additionalData": {
+      "name": "benzene"
+    },
+    "id": 2,
+    "molecule": "c1ccccc1"
+  },
+  {
+    "additionalData": {
+      "name": "carbon dioxide"
+    },
+    "id": 3,
+    "molecule": "O=C=O"
+  },
+  {
+    "additionalData": {
+      "name": "hydrogen cyanide"
+    },
+    "id": 4,
+    "molecule": "C#N"
+  },
+  {
+    "additionalData": {
+      "name": "triethylamine"
+    },
+    "id": 5,
+    "molecule": "CCN(CC)CC"
+  },
+  {
+    "additionalData": {
+      "name": "acetic acid"
+    },
+    "id": 6,
+    "molecule": "CC(=O)O"
+  },
+  {
+    "additionalData": {
+      "name": "cyclohexane"
+    },
+    "id": 7,
+    "molecule": "C1CCCCC1"
+  },
+  {
+    "additionalData": {
+      "name": "Dinitrogen"
+    },
+    "id": 8,
+    "molecule": "N#N"
+  },
+  {
+    "additionalData": {
+      "name": "Methyl isocyanate"
+    },
+    "id": 9,
+    "molecule": "CN=C=O"
+  },
+  {
+    "additionalData": {
+      "name": "Copper(II) sulfate"
+    },
+    "id": 10,
+    "molecule": "[Cu+2].[O-]S(=O)(=O)[O-]"
+  },
+  {
+    "additionalData": {
+      "name": "Vanillin"
+    },
+    "id": 11,
+    "molecule": "COCc1cc(C=O)ccc1O"
+  },
+  {
+    "additionalData": {
+      "name": "Melatonin"
+    },
+    "id": 12,
+    "molecule": "CC(=O)NCCC1=CNc2c1cc(OC)cc2"
+  },
+  {
+    "additionalData": {
+      "name": "Flavopereirin"
+    },
+    "id": 13,
+    "molecule": "CCc1c[n+]2ccc3c4ccccc4[nH]c3c2cc1"
+  },
+  {
+    "additionalData": {
+      "name": "glucose"
+    },
+    "id": 14,
+    "molecule": "OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)1"
+  },
+  {
+    "additionalData": {
+      "name": "phenol"
+    },
+    "id": 15,
+    "molecule": "c1ccc(cc1)O"
+  },
+  {
+    "additionalData": {
+      "name": "Toluene"
+    },
+    "id": 16,
+    "molecule": "Cc1ccccc1"
+  }
+]
